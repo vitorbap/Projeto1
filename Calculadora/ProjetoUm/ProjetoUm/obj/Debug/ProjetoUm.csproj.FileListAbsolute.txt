@@ -1,0 +1,7 @@
+C:\Temp\Project\ProjetoUm\ProjetoUm\bin\Debug\ProjetoUm.exe.config
+C:\Temp\Project\ProjetoUm\ProjetoUm\bin\Debug\ProjetoUm.exe
+C:\Temp\Project\ProjetoUm\ProjetoUm\bin\Debug\ProjetoUm.pdb
+C:\Temp\Project\ProjetoUm\ProjetoUm\obj\Debug\ProjetoUm.csproj.AssemblyReference.cache
+C:\Temp\Project\ProjetoUm\ProjetoUm\obj\Debug\ProjetoUm.csproj.CoreCompileInputs.cache
+C:\Temp\Project\ProjetoUm\ProjetoUm\obj\Debug\ProjetoUm.exe
+C:\Temp\Project\ProjetoUm\ProjetoUm\obj\Debug\ProjetoUm.pdb

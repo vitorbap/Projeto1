@@ -1,0 +1,7 @@
+C:\Temp\Project\Calculadora\ProjetoUm\ProjetoUm\bin\Debug\ProjetoUm.exe.config
+C:\Temp\Project\Calculadora\ProjetoUm\ProjetoUm\bin\Debug\ProjetoUm.exe
+C:\Temp\Project\Calculadora\ProjetoUm\ProjetoUm\bin\Debug\ProjetoUm.pdb
+C:\Temp\Project\Calculadora\ProjetoUm\ProjetoUm\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Temp\Project\Calculadora\ProjetoUm\ProjetoUm\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Temp\Project\Calculadora\ProjetoUm\ProjetoUm\obj\Debug\ProjetoUm.exe
+C:\Temp\Project\Calculadora\ProjetoUm\ProjetoUm\obj\Debug\ProjetoUm.pdb
